@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fermidos.github.io/sitemap.xml
