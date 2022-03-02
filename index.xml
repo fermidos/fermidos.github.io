@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fermidos 的博客</title>
+    <title>FERMIDOS 的博客</title>
     <link>https://fermidos.github.io/</link>
-    <description>Recent content on Fermidos 的博客</description>
+    <description>Recent content on FERMIDOS 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Mar 2022 16:35:48 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2022 17:25:09 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://fermidos.github.io/about/</link>
@@ -17,6 +17,24 @@
 what I like crosstalk, Taichi quan, Ukelele, also, Iike the songs of Linkin Park and Eminem
 dream I have My dream is to control two companies, one does NLP, and the other does Quantum Computing.
  find more about my code on https://github.</description>
+    </item>
+    
+    <item>
+      <title>太极拳论</title>
+      <link>https://fermidos.github.io/post/%E5%A4%AA%E6%9E%81%E6%8B%B3%E8%AE%BA/</link>
+      <pubDate>Wed, 02 Mar 2022 17:25:09 +0800</pubDate>
+      
+      <guid>https://fermidos.github.io/post/%E5%A4%AA%E6%9E%81%E6%8B%B3%E8%AE%BA/</guid>
+      <description>太極者，無極而生。动静之機，陰陽之母也。動之則分，靜之則合。無過不及，隨曲就伸。 人剛我柔謂之走，我順人背謂之粘；動急則急應，動緩則緩隨。雖變</description>
+    </item>
+    
+    <item>
+      <title>效率工具链online</title>
+      <link>https://fermidos.github.io/post/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E9%93%BE/</link>
+      <pubDate>Wed, 02 Mar 2022 17:19:58 +0800</pubDate>
+      
+      <guid>https://fermidos.github.io/post/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E9%93%BE/</guid>
+      <description>介绍一下提升效率和生活品质的在线工具 分类 日常 代码 科技 化学</description>
     </item>
     
     <item>
@@ -43,7 +61,9 @@ dream I have My dream is to control two companies, one does NLP, and the other d
       <pubDate>Wed, 02 Mar 2022 16:00:19 +0800</pubDate>
       
       <guid>https://fermidos.github.io/post/ceu/</guid>
-      <description>wehat</description>
+      <description>token test
+` ============
+ $\sum a^{2}\bigcap b_{3}$</description>
     </item>
     
     <item>
