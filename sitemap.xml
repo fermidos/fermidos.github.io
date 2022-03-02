@@ -9,6 +9,27 @@
   </url>
   
   <url>
+    <loc>https://fermidos.github.io/</loc>
+    <lastmod>2022-03-02T16:18:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fermidos.github.io/post/</loc>
+    <lastmod>2022-03-02T16:18:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fermidos.github.io/post/%E6%90%AD%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-03-02T16:18:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://fermidos.github.io/post/ceu/</loc>
     <lastmod>2022-03-02T16:00:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16,14 +37,7 @@
   </url>
   
   <url>
-    <loc>https://fermidos.github.io/</loc>
-    <lastmod>2022-03-02T16:00:19+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://fermidos.github.io/post/</loc>
+    <loc>https://fermidos.github.io/post/%E8%BE%93%E5%85%A5%E6%B3%95%E7%9A%84%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-03-02T16:00:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
