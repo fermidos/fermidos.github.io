@@ -10,21 +10,35 @@
   
   <url>
     <loc>https://fermidos.github.io/</loc>
-    <lastmod>2022-03-02T17:49:59+08:00</lastmod>
+    <lastmod>2022-03-02T17:59:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fermidos.github.io/tags/nlp/</loc>
+    <lastmod>2022-03-02T17:59:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fermidos.github.io/post/nlpclass/</loc>
+    <lastmod>2022-03-02T17:59:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fermidos.github.io/post/</loc>
-    <lastmod>2022-03-02T17:49:59+08:00</lastmod>
+    <lastmod>2022-03-02T17:59:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fermidos.github.io/tags/</loc>
-    <lastmod>2022-03-02T17:49:59+08:00</lastmod>
+    <lastmod>2022-03-02T17:59:24+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
