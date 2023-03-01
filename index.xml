@@ -6,7 +6,7 @@
     <description>Recent content on FERMIDOS 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Mar 2023 18:17:14 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 18:27:32 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://fermidos.github.io/about/</link>
@@ -16,6 +16,15 @@
       <description>WHO AM I Hi, My name is Fermidos. During the postgraduate period, I was in charge of the server cluster of the chemistry lab. Senior editor at a technology Forum/media , and made some reports at a security company.
 WHAT I LIKE Crosstalk, Taichi quan, Ukelele, and I Iike the songs of Linkin Park and Eminem.
 FRIEND LINKS https://www.applenice.net/</description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://fermidos.github.io/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Wed, 01 Mar 2023 18:27:32 +0800</pubDate>
+      
+      <guid>https://fermidos.github.io/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description>hogu is not complex The song might help with feeling this article</description>
     </item>
     
     <item>
