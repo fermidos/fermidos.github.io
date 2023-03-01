@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum computing on FERMIDOS 的博客</title>
+    <link>https://fermidos.github.io/tags/quantum-computing/</link>
+    <description>Recent content in Quantum computing on FERMIDOS 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 Apr 2022 23:50:05 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kernel Problem</title>
+      <link>https://fermidos.github.io/post/kernel-problem/</link>
+      <pubDate>Thu, 07 Apr 2022 23:50:05 +0800</pubDate>
+      
+      <guid>https://fermidos.github.io/post/kernel-problem/</guid>
+      <description>The song might help with feeling this article when using Kaggle or Colab platform for install something, you might see the warning:you may need to restart the kernel use updated packages .So what is the proper way to restart？ here we go! in kaggle as searched on the forum, you can press the fresh button and go on in Colab</description>
+    </item>
+    
+  </channel>
+</rss>

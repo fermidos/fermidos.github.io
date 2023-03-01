@@ -6,7 +6,16 @@
     <description>Recent content in 杂谈 on FERMIDOS 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Mar 2022 17:49:59 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 23:50:05 +0800</lastBuildDate><atom:link href="https://fermidos.github.io/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kernel Problem</title>
+      <link>https://fermidos.github.io/post/kernel-problem/</link>
+      <pubDate>Thu, 07 Apr 2022 23:50:05 +0800</pubDate>
+      
+      <guid>https://fermidos.github.io/post/kernel-problem/</guid>
+      <description>The song might help with feeling this article when using Kaggle or Colab platform for install something, you might see the warning:you may need to restart the kernel use updated packages .So what is the proper way to restart？ here we go! in kaggle as searched on the forum, you can press the fresh button and go on in Colab</description>
+    </item>
+    
     <item>
       <title>刘宝瑞相声</title>
       <link>https://fermidos.github.io/post/%E5%88%98%E5%AE%9D%E7%91%9E%E7%9B%B8%E5%A3%B0/</link>
